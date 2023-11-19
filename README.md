@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naturalneuralnet
+- 👋 Hi, I’m Nattie!
 - 👀 I’m interested in Full Stack, Machine Learning & DevOps
 - 🌱 I’m currently learning Python, Javascript & SQL
 - 💞️ I’m looking to collaborate on Open Source Projects
