@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nattie!
 - 👀 I’m interested in Full Stack, Machine Learning & DevOps
-- 🌱 I’m currently learning Python, Javascript & SQL
+- 🌱 I’m currently learning Python, Javascript, SQL & Bash
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me? Message me on [Devto.io](https://dev.to/nattie)
 
