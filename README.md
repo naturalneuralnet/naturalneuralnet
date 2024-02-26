@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nattie!
+- 👋 Hi, I’m Binat!
 - 👀 I’m interested in Full Stack, Machine Learning & DevOps
 - 🌱 I’m currently learning Python, Javascript, SQL & Bash
 - 💞️ I’m looking to collaborate on Open Source Projects
