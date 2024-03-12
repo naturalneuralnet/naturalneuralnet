@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Binat!
+- 👋 Hi, I’m a software engineer from the UK
 - 👀 I’m interested in Full Stack, Machine Learning & DevOps
 - 🌱 I’m currently learning Python, Javascript, SQL & Bash
 - 💞️ I’m looking to collaborate on Open Source Projects
