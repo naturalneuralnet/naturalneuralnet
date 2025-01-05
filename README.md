@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a software engineer from the UK
-- 👀 I’m interested in Full Stack, Machine Learning & DevOps
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👋 Hi, I’m an aspiring software engineer from the UK.
+- 👀 I’m interested in Full Stack, Machine Learning & DevOps.
+- 🌱 I’m currently learning AWS.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me? Message me on [Devto.io](https://dev.to/nattie)
 
 <!---
